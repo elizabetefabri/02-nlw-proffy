@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src="git/proffy.png" width="100%">
+  <img alt="Proffy" src="git/landing-page.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
