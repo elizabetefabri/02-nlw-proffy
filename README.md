@@ -10,9 +10,12 @@
 </p>
 
 ## 🚀 Tecnologias
-- []()
-- []()
-- []()
+- [ViteJS](https://vitejs.dev/)
+- [KnexJS](https://knexjs.org/)
+- [React Router Dom](https://reactrouter.com/)
+- [SQLite3](https://www.sqlite.org/index.html)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://react.dev/)
  
 ## 💻 Projeto
 
@@ -26,5 +29,5 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
 
-Feito com ♥ by Elizabete Fabri
+Feito com 💙💚💗 by Elizabete Fabri
 
