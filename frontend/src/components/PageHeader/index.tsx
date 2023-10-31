@@ -5,12 +5,15 @@ import logoImg from "../../assets/images/logo.svg";
 
 import "./styles.css";
 
+
 interface PageHeaderProps {
+    children: any;
     title: string;
     description?: string;
 }
 
 export const PageHeader: React.FC<PageHeaderProps> = (props) => {
+
     return (
         <header className="page-header">
             <div className="top-bar-container">

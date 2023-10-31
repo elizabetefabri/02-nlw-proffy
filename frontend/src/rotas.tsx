@@ -1,7 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Landing } from "./pages/Landing";
 import { TeacherForm } from "./pages/TeacherForm";
-import { TeacherList } from "./pages/TeacherList";
+import TeacherList from "./pages/TeacherList";
+
 
 export function Rotas() {
     return (
