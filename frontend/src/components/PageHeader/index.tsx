@@ -7,9 +7,9 @@ import "./styles.css";
 
 
 interface PageHeaderProps {
-    children: any;
+    children?: any;
     title: string;
-    description?: string;
+    description: string;
 }
 
 export const PageHeader: React.FC<PageHeaderProps> = (props) => {
