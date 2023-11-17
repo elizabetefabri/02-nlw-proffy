@@ -1,34 +1,41 @@
-# Proffy
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src="git/logo.svg" />
+</h1>
 
-### 📥 Baixando e Instalando o Projeto
-Pré-requisitos:
-Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu sistema. Você pode baixá-los em nodejs.org.
 
-### Clone o Repositório:
+<br>
 
-```
-git clone https://github.com/seu-usuario/seu-projeto.git
-Navegue para o Diretório do Projeto:
+<p align="center">
 
-cd seu-projeto
-Instale as Dependências:
+  ## Landing page
+  <img alt="Proffy" src="../git/my-landing.png" width="100%">
 
-npm install
-Executando o Projeto
-Inicie o Servidor de Desenvolvimento:
+  ## Página de escolha ou listagem de professores cadastrados.
+  <img alt="Proffy" src="../git/my-landing-2.png" width="100%">
 
-npm start
-Acesse o Aplicativo:
-Abra o seu navegador e acesse http://localhost:5173 para visualizar o aplicativo em execução.
+  ## Página de cadastro de proffessores
+  <img alt="Proffy" src="../git/my-landing3.png" width="100%">
+</p>
 
-Customização
-Customize o Projeto:
-Faça as alterações necessárias no código-fonte do projeto para atender às suas necessidades.
+## 🚀 Tecnologias
+- [ViteJS](https://vitejs.dev/)
+- [KnexJS](https://knexjs.org/)
+- [React Router Dom](https://reactrouter.com/)
+- [SQLite3](https://www.sqlite.org/index.html)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://react.dev/)
+ 
+## 💻 Projeto
 
-Criando uma Build de Produção:
+O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
-arduino
-Copy code
-npm run build
-Isso criará uma versão otimizada do seu aplicativo na pasta build.
-```
+## 🔖 Layout
+
+Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+- [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+
+
+Feito com 💙💚💗 by Elizabete Fabri
+
