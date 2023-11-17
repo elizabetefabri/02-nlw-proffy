@@ -50,8 +50,32 @@ const styles = StyleSheet.create({
   submitButtonText: {
     color: '#FFF',
     fontFamily: 'Archivo_700Bold',
-    fontSize: 16
+    fontSize: 14
   },
+
+  filterButton: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#FFF',
+    height: 56,
+    borderRadius: 8,
+    marginTop: 8,
+    marginBottom: 16,
+  },
+
+  filterButtonText: {
+    color: '#04d361',
+    fontFamily: 'Archivo_700Bold',
+    fontSize: 14
+  },
+
+  filterButtonIcon: {
+    color: '#04d361',
+    fontSize: 20,
+    marginRight: 8,
+  }
+
 })
 
 export default styles;
