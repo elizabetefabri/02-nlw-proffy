@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="git/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="../git/logo.svg" />
 </h1>
 
 
@@ -14,7 +14,7 @@
   <img alt="Proffy" src="../git/my-landing-2.png" width="100%">
 
   ## Página de cadastro de proffessores
-  <img alt="Proffy" src="../git/my-landing3.png" width="100%">
+  <img alt="Proffy" src="../git/mylanding3.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
